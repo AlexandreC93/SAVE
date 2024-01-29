@@ -1,0 +1,9 @@
+[submodule "minilibx-linux"]
+	path = minilibx-linux
+	url = https://github.com/42Paris/minilibx-linux
+[submodule "mlx_linux/mlx_linux/minilibx-linux"]
+	path = mlx_linux/mlx_linux/minilibx-linux
+	url = https://github.com/42Paris/minilibx-linux
+[submodule "mlx_linux/minilibx-linux"]
+	path = mlx_linux/minilibx-linux
+	url = https://github.com/42Paris/minilibx-linux
